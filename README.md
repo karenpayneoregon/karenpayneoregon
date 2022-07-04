@@ -2,6 +2,8 @@
 
 ![assets/Title.png](./assets/Title.png)
 
+**Speaking at a Microsoft event 2020**
+
 I’m a software developer for the state of Oregon for the past 28 years writing applications in various programming languages from way back with Nantucket Clipper, Delphi, Cold Fusion with the majority of coding using various flavors of C, C++ and C#. 
 
 Have been teaching software development for over 20 years with focus on beginners and intermediate level developers as I like to get them before they form bad habits. 

@@ -16,6 +16,8 @@ My current passion is driving one of my two Mazda Miatas which are highly modifi
 
 My repositories: they are for teaching and sharing my knowledge. I seldomly present web solutions as this is what I do at work and honestly believe that new developers should focus on console and test projects. Will use Windows forms as a next level to console projects. 
 
+![assets/Title.png](./assets/mvp.png)
+
 <!--
 **karenpayneoregon/karenpayneoregon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

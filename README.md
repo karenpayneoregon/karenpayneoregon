@@ -18,6 +18,8 @@ My repositories: they are for teaching and sharing my knowledge. I seldomly pres
 
 ![assets/Title.png](./assets/mvp.png)
 
+Connect on [Twitter](https://twitter.com/jamesmcroft)
+
 <!--
 **karenpayneoregon/karenpayneoregon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

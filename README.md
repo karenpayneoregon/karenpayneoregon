@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karenpayneoregon)](https://git.io/streak-stats)
 -->
 
+
+
+
 <!--
 https://gprm.itsvg.in/
 
@@ -69,5 +72,16 @@ https://gprm.itsvg.in/
 ![](https://github-readme-streak-stats.herokuapp.com/?user=karenpayneoregon&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karenpayneoregon&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=karenpayneoregon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=karenpayneoregon&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/karenpayneoregon/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
+

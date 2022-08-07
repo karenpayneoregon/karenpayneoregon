@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 [GitHub Profile Views Counter]: https://github.com/karenpayneoregon/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karenpayneoregon)](https://git.io/streak-stats)

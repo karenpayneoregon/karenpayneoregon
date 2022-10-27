@@ -4,7 +4,7 @@
 
 **Speaking at a Microsoft event 2020**
 
-I’m a software developer writing applications in various programming languages from way back with Nantucket Clipper, Delphi, Cold Fusion with the majority of coding using various flavors of C, C++ and C#. 
+I’m a software developer writing applications in various programming languages from way back with [Nantucket Clipper](https://en.wikipedia.org/wiki/Clipper_(programming_language)), [Delphi](https://en.wikipedia.org/wiki/Delphi_(software)), [Cold Fusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion) with the majority of coding using various flavors of C, C++ and [C#](https://learn.microsoft.com/en-us/dotnet/csharp/). 
 
 Have been teaching software development for over 20 years with focus on beginners and intermediate level developers as I like to get them before they form bad habits. 
 

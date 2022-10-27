@@ -16,6 +16,8 @@ My current passion is driving one of my two Mazda Miatas which are highly modifi
 
 My repositories: they are for teaching and sharing my knowledge. I seldomly present web solutions as this is what I do at work and honestly believe that new developers should focus on console and test projects. Will use Windows forms as a next level to console projects. 
 
+As of September 2022 I've started writing about ASP.NET Core starting with Razor pages, next up Blazer
+
 ![assets/Title.png](./assets/mvp.png)
 
 
